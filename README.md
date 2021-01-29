@@ -20,7 +20,7 @@ express, mysql2, sequelize, moment
 <hr>
 
 <h3>Technologies Used
-<hr>
+
 * HTML/CSS 
 * JavaScript 
 * Bootstrap 
@@ -32,3 +32,48 @@ express, mysql2, sequelize, moment
 * Node.js
 * NodeMon
 * Express
+   
+# Images:
+Home Page
+![screencapture-localhost-8080-2021-01-27-23_28_04 (1)](https://user-images.githubusercontent.com/71681031/106105191-6b1ab380-60f8-11eb-9f91-3784bec9e043.png)
+
+
+Create Page
+![screencapture-localhost-8080-create-html-2021-01-27-23_28_34 (1)](https://user-images.githubusercontent.com/71681031/106105187-69e98680-60f8-11eb-904d-b961e211c1ae.png)
+
+Back to Home Page: Item Created
+![screencapture-localhost-8080-index-html-2021-01-27-23_29_35](https://user-images.githubusercontent.com/71681031/106105174-6655ff80-60f8-11eb-8b00-e19f7bc3dec5.png)
+
+
+## Demo:
+View the demo by clicking the link: https://drive.google.com/file/d/16ZNIVMRK9ax9d4AhduK7Bqp6jOIYIexm/view
+
+<hr>
+
+# Challenges and Successes
+
+Challenges
+* The Broken Laptop 
+* Finding a good app idea
+* What API do we use?
+* Bootstrap - Jumbotron (v5)
+* Routes
+* Heroku Deployment
+
+Successes
+* Functional application with layout we designed
+* Edit feature working 
+* CRUD functionality
+* Successfully connected front end to back end
+
+# Links
+
+GitHub Repo: https://github.com/hamidalicious/project_2
+
+My Github Profile: https://github.com/hamidalicious
+
+Deployed Heroku app: https://ancient-waters-03417.herokuapp.com/
+
+
+
+
